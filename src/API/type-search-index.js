@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Ch7Arrays","l":"ArrayBasics"},{"p":"Ch7Arrays","l":"HelloWorld"},{"p":"Ch7Arrays","l":"SebastianLassanderWeatherAnalysisV1"},{"p":"Ch7Arrays","l":"SebastianLassanderWeatherAnalysisV2"},{"p":"Ch7Arrays","l":"SebastianLassanderWeatherAnalysisV3"}];updateSearchResults();
